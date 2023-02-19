@@ -1,7 +1,7 @@
 # Brain Tumor Detection Using a Convolutional Neural Network
 
-**About the Brain MRI Images dataset:**<br>
-The dataset contains 2 folders: yes and no which contains 253 Brain MRI Images. The folder yes contains 155 Brain MRI Images that are tumorous and the folder no contains 98 Brain MRI Images that are non-tumorous. You can find it [here](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection).
+**About the Brain Histological Slides dataset:**<br>
+The dataset contains 2 folders: yes and no which contains 19 Brain histological slides. The folder yes contains 4 slides that are tumorous and the folder no contains 15 slides that are non-tumorous.
 
 ## Import Necessary Modules
 
